@@ -8,8 +8,8 @@
             ashh
 
             ## Solution
-            ##first
-###seconf
+            ## first
+### seconf
 then run **nmap**
 
             ## Commands Used
